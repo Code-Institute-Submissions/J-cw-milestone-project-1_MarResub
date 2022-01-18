@@ -29,6 +29,10 @@
       letter-spacing: 2px;
   }
 
+  #logo, #menu{
+      line-height: 50px;
+  }
+
   #menu li {
       float: right;
       margin-right: 25px;
@@ -39,4 +43,12 @@
       color:black;
       text-transform: uppercase;
       font-weight: bold;
+  }
+
+  #menu a:hover {
+      border-bottom: 1px solid black;
+  }
+
+  .active {
+      border-bottom: 1px solid black;
   }
