@@ -1,60 +1,73 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:700|Exo:400');
 
 * {
-    margin:0;
-    padding:0;
-    border:0;
+    margin: 0;
+    padding: 0;
+    border: 0;
     font-family: Exo;
-  }
+}
 
-  body {
-    
-  }
+body {
+    background-color: black;
+}
 
-  h2 {
-      font-family: Roboto;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      color:slategrey;
-  }
+h2 {
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: slategrey;
+}
 
-  #logo {
+#logo {
     float: left;
     font-size: 280%;
-  }
+}
 
-  #menu {
-      font-size:110%;
-      list-style-type: none;
-      letter-spacing: 2px;
-  }
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 2px;
+}
 
-  #logo, #menu{
-      line-height: 50px;
-  }
+#logo, #menu {
+    line-height: 50px;
+}
 
-  #menu li {
-      float: right;
-      margin-right: 25px;
-  }
+#menu li {
+    float: right;
+    margin-right: 25px;
+}
 
-  #menu a {
-      text-decoration: none;
-      color:black;
-      text-transform: uppercase;
-      font-weight: bold;
-  }
+#menu a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 
-  #menu a:hover {
-      border-bottom: 1px solid black;
-  }
+#menu a:hover {
+    border-bottom: 1px solid black;
+}
 
-  .active {
-      border-bottom: 1px solid black;
-  }
+.active {
+    border-bottom: 1px solid black;
+}
 
-  #gym-image {
-      height: 400px;
-      width: 100%;
-      background: url("/assets/images/risen-wang-20jX9b35r_M-unsplash.jpg") no-repeat center center
-  }
+#gym-image {
+    height: 700px;
+    width: 100%;
+    background: url("/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg") no-repeat center center;
+}
+
+#gym-outer {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+}
+
+section > h1 {
+    text-align: center;
+}
+section>p {
+    text-align: center;
+}
