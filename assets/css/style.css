@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700|Exo:400');
 
 *{
     margin:0;
     padding:0;
     border:0;
+    font-family: Roboto;
   }
 
   body{
-    font-family: Lato;
-    color:#777777;
+    
   }
+
