@@ -2,7 +2,7 @@
 
 body {
     font-family: Exo, sans-serif;
-   
+
 }
 
 h2 {
@@ -31,11 +31,24 @@ h2 {
 /* /Navbar */
 
 /* Containers */
+
 .reviews-container {}
 
-.callout-container {}
+.callout-container {
+    height: 100vh;
+    background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 .classes-container {}
+
 /* /Containers */
 
 /* Buttons */
@@ -56,9 +69,10 @@ h2 {
     overflow: hidden;
 }
 
-section > h1 {
+section>h1 {
     text-align: center;
 }
+
 section>p {
     text-align: center;
 }
