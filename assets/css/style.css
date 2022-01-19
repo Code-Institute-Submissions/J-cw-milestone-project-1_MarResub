@@ -17,7 +17,9 @@ h2 {
     letter-spacing: 3px;
     color: slategrey;
 }
-
+div > a {
+    
+}
 #logo {
     float: left;
     font-size: 280%;
