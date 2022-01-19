@@ -15,17 +15,36 @@
 <body>
     <!-- Navbar -->
     <header>
-        <nav class="navbar bg-dark navbar-expand-sm">
-            <a href="index.html" class="navbar-brand d-sm-block d-none"><img src="../assets/images/AuraFITNESS.png" alt="Aura Fitness Logo"></a>
-                <ul class="navbar-nav mr auto">
-                <li class="active nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
-                <li class="nav-item mr-2"><a class="nav-link" href="#">Our Facilities</a></li>
-                <li class="nav-item mr-2"><a class="nav-link" href="#">Timetables</a></li>
-                <li class="nav-item mr-2"><a class="nav-link" href="#">Book a class</a></li>
-            </ul>
+        <nav class="navbar navbar-dark navbar-expand-sm bg-dark">
+            <a href="index.html" class="navbar-brand">Aura Fitness</a>
 
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span></button>
+            <!-- ml auto pushes it over to the right, data-toggle = button used as trigger, -->
+
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto">
+                    <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="/facilities">Our Facilities</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Timetables
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Strength & Stretch</a>
+                            <a class="dropdown-item" href="#">Fitness & Wellbeing</a>
+                            <a class="dropdown-item" href="#">Strength & Hypertrophy</a>
+                        </div>
+                    
+                </ul>
+            </div>
+            <div class="d-none d-md-block navbar-text my-auto mr-2">
+                <a href="/book" class="btn btn--cta btn-primary">Book a class</a>
+            </div>
         </nav>
-
+<!-- /Navbar -->
         <div class="container-fluid navalert-container">
             <div class="row d-none d-sm-block">
                 <div class="col-12">

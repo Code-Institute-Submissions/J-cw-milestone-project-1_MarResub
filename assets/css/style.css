@@ -8,52 +8,50 @@
 }
 
 body {
-    background-color: black;
+    background-color: #1A1918;
 }
 
 h2 {
     font-family: Roboto;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: slategrey;
+    color: #1A1918;
 }
 
-.logo {
-    background: url("/images/AuraFITNESS.png");
-    background-position: center;
-    background-repeat:;
+/* Navbar */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
 }
 
-#menu {
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 2px;
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+    border: 0;
 }
 
-#logo, #menu {
-    line-height: 50px;
+.navbar .navbar-toggler {
+    border: 0;
 }
 
-#menu li {
-    float: right;
-    margin-right: 25px;
-}
-
-#menu a {
-    text-decoration: none;
-    color: black;
-    text-transform: uppercase;
+.navbar .navbar-brand {
     font-weight: bold;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid black;
+.navbar .navbar-nav a {
+    font-weight: bold;
 }
 
-.active {
-    border-bottom: 1px solid black;
-}
 
+/* /Navbar */
+
+/* Main gym image */
 #gym-image {
     height: 700px;
     width: 100%;
