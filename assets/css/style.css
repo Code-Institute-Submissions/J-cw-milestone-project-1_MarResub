@@ -1,14 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:700|Exo:400');
 
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-family: Exo;
-}
-
 body {
-    background-color: #1A1918;
+    font-family: Exo;
 }
 
 h2 {
@@ -19,15 +12,6 @@ h2 {
 }
 
 /* Navbar */
-
-.navalert-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    padding-left: 0;
-    padding-right: 0;
-}
 
 .navbar {
     margin-bottom: 0;
@@ -50,6 +34,11 @@ h2 {
 
 
 /* /Navbar */
+
+/* Buttons */
+
+
+/* /Buttons */
 
 /* Main gym image */
 #gym-image {
