@@ -16,6 +16,9 @@ h2 {
     letter-spacing: 3px;
     color: #028b92;
 }
+h4 {
+    text-align:center;
+}
 /* Page styling */
 
 #testborder {
@@ -150,7 +153,6 @@ section>p {
 }
 
 .footer-container{
-    /* width: clamp(200px, 50%, 100%); */
     margin: auto;
     padding: 15px;
     background-color: #1b2024;
