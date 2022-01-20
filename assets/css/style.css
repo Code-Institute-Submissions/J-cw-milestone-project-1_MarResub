@@ -146,13 +146,24 @@ section>p {
     background: url(#);
 }
 
+.footer-container .row {
+}
+
 .footer-container{
-    width: clamp(200px, 50%, 100%);
+    /* width: clamp(200px, 50%, 100%); */
     margin: auto;
+    padding: 35px;
+    margin-left: 25vw;
 }
 
 ul {
     list-style: none;
+}
+
+.footer-col {
+    width: clamp(0, 1fr, 1fr);
+    padding: 0 15px;
+    
 }
 /* /Footer */
 
