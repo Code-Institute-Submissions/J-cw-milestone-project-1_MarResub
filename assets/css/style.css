@@ -131,17 +131,17 @@ h2 {
 /* /Buttons */
 
 /* Main gym image */
-#gym-image {
+/* #gym-image {
     height: 700px;
     width: 100%;
-    background: url("/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg") no-repeat center center;
+    /* background: url("/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg") no-repeat center center; */
 }
 
 #gym-outer {
     height: 700px;
     width: 100%;
     overflow: hidden;
-}
+} */
 
 section>h1 {
     text-align: center;
