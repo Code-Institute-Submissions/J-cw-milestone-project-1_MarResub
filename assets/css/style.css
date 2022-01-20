@@ -13,7 +13,7 @@ h2 {
     font-family: Roboto;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #028b92;
+    color: #78c6fc;
 }
 h4 {
     text-align:center;
@@ -186,9 +186,9 @@ ul {
 /* /Modal */
 
 /* Classes */
-.classTimes-container {
+.classInfo-container {
     height: 25%;
-    /* background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed; */
+    background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
