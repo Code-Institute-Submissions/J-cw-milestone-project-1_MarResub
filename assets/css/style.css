@@ -49,7 +49,7 @@ h2 {
 }
 
 .callout-container {
-    height: 75vh;
+    height: 50vh;
     background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -62,8 +62,8 @@ h2 {
 }
 
 .classes-container {
-    height: 33vh;
-    background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
+    height: 25%;
+    /* background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -83,14 +83,17 @@ h2 {
     color: #fff
 }
 
-#testborder {
-    color:#7AB547;
+/* #testborder {
+    color:#fff;
     background-color: rgba(0, 0, 0, 0.363);
     border-style: double;
     border-width: medium;
-    border-color: #fff;
-    border-radius: 33px;
-    margin-left: 50px;
+    border-color: #fff; */
+    /* border-radius: 33px;
+    margin-left: 0.5rem;
+    margin-top: 0.2rem;
+    border-top: 25px;
+    border-bottom: 25px; */
 }
 /* Jumbotron */
 .jumbotron-header {
@@ -136,3 +139,6 @@ section>p {
     text-align: center;
 }
 
+#bookClassModal {
+    color:#1A1918;
+}
