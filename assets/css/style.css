@@ -8,7 +8,6 @@ body {
 
 }
 h1 {
-    margin-top:13%;
 }
 h2 {
     font-family: Roboto;
@@ -102,7 +101,6 @@ h4 {
 
 }
 
-
 /* /Containers */
 
 #test {
@@ -128,6 +126,7 @@ h4 {
 /* Jumbotron */
 .jumbotron-header {
     font-weight: bolder;
+    margin-top:13%;
 
 }
 
@@ -185,3 +184,18 @@ ul {
 }
 
 /* /Modal */
+
+/* Classes */
+.classTimes-container {
+    height: 25%;
+    /* background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
