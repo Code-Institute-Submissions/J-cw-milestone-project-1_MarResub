@@ -51,6 +51,15 @@ h2 {
 
 /* /Containers */
 
+#test {
+    background: url(/assets/images/luis-vidal-FodEsaNZs48-unsplash.jpg) no-repeat center center fixed;
+    z-index: 1;
+    background-size: 100vh;
+}
+/* Jumbotron */
+
+/* /Jumbotron */
+
 /* Buttons */
 
 
