@@ -3,6 +3,8 @@
 body {
     font-family: Exo, sans-serif;
     background-color: #141313;
+    color: #fff;
+    font-weight: bold;
 
 }
 
@@ -34,7 +36,7 @@ h2 {
 /* Containers */
 
 .reviews-container {
-    height: 100vh;
+    height: 50vh;
     background: url(/assets/images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -47,7 +49,7 @@ h2 {
 }
 
 .callout-container {
-    height: 100vh;
+    height: 75vh;
     background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -59,7 +61,18 @@ h2 {
 
 }
 
-.classes-container {}
+.classes-container {
+    height: 33vh;
+    background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 /* /Containers */
 
@@ -68,6 +81,16 @@ h2 {
     z-index: 1;
     background-size: 100vh;
     color: #fff
+}
+
+#testborder {
+    color:#7AB547;
+    background-color: rgba(0, 0, 0, 0.363);
+    border-style: double;
+    border-width: medium;
+    border-color: #fff;
+    border-radius: 33px;
+    margin-left: 50px;
 }
 /* Jumbotron */
 .jumbotron-header {
