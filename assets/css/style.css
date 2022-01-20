@@ -33,10 +33,9 @@ h2 {
 
 #gradientDrk {
     background-color: rgba(0, 0, 0, 0.363);
-    border-style: double;
-    border-width: medium;
-    border-color: #fff; 
 }
+
+
 /* /Page styling */
 /* Navbar */
 
@@ -68,12 +67,13 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 
 }
 
 .callout-container {
     
-    background: url(/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg) no-repeat center center fixed;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -81,7 +81,6 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .classes-container {
@@ -123,15 +122,6 @@ h2 {
     font-weight: bolder;
 
 }
-
-/* @keyframes hero-zoom{
-    from{
-        transform: scale(1)
-    }
-    to{
-        transform: scale(1.1);
-    }
-  } */
 
 /* /Jumbotron */
 
