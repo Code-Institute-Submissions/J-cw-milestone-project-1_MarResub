@@ -7,25 +7,30 @@ body {
     font-weight: bold;
 
 }
-h1 {
-}
+
 h2 {
     font-family: Roboto;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #78c6fc;
 }
+
 h4 {
-    text-align:center;
+    text-align: center;
 }
+
+a {
+    color: #78c6fc;
+}
+
 /* Page styling */
 
 #testborder {
-    color:#fff;
+    color: #fff;
     background-color: rgba(0, 0, 0, 0.363);
     border-style: double;
     border-width: medium;
-    border-color: #fff; 
+    border-color: #fff;
     border-radius: 33px;
     margin-left: 0.5rem;
     margin-top: 0.2rem;
@@ -36,7 +41,7 @@ h4 {
 #gradientDrk {
     background-color: rgba(0, 0, 0, 0.363);
     padding: 5px;
-    
+
 }
 
 
@@ -71,13 +76,13 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 
 }
 
 .callout-container {
-    
-    
+
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -111,11 +116,11 @@ h4 {
 }
 
 #testborder {
-    color:#fff;
+    color: #fff;
     background-color: rgba(0, 0, 0, 0.363);
     border-style: double;
     border-width: medium;
-    border-color: #fff; 
+    border-color: #fff;
     border-radius: 33px;
     margin-left: 0.5rem;
     margin-top: 0.2rem;
@@ -123,10 +128,11 @@ h4 {
     border-top: 25px;
     border-bottom: 25px;
 }
+
 /* Jumbotron */
 .jumbotron-header {
     font-weight: bolder;
-    margin-top:13%;
+    margin-top: 13%;
 
 }
 
@@ -152,10 +158,9 @@ section>p {
     background: url(#);
 }
 
-.footer-container .row {
-}
+.footer-container .row {}
 
-.footer-container{
+.footer-container {
     margin: auto;
     padding: 15px;
     background-color: #1b2024;
@@ -168,19 +173,20 @@ ul {
 .footer-col {
     width: clamp(0, 1fr, 1fr);
     padding: 0 15px;
-    
+
 }
 
 #footer-logo {
     url(/assets/images/rsz_aura_fitness.png);
     align-items: left;
 }
+
 /* /Footer */
 
 /* Modal */
 
 #bookClassModal {
-    color:#1A1918;
+    color: #1A1918;
 }
 
 /* /Modal */
