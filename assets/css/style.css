@@ -2,6 +2,7 @@
 
 body {
     font-family: Exo, sans-serif;
+    background-color: #141313;
 
 }
 
@@ -9,7 +10,7 @@ h2 {
     font-family: Roboto;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #1A1918;
+    color: #028b92;
 }
 
 /* Navbar */
