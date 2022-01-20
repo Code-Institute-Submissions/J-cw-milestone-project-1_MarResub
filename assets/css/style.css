@@ -96,6 +96,7 @@ h2 {
 
 }
 
+
 /* /Containers */
 
 #test {
@@ -130,18 +131,6 @@ h2 {
 
 /* /Buttons */
 
-/* Main gym image */
-/* #gym-image {
-    height: 700px;
-    width: 100%;
-    /* background: url("/assets/images/sven-mieke-MsCgmHuirDo-unsplash.jpg") no-repeat center center; */
-}
-
-#gym-outer {
-    height: 700px;
-    width: 100%;
-    overflow: hidden;
-} */
 
 section>h1 {
     text-align: center;
@@ -151,6 +140,26 @@ section>p {
     text-align: center;
 }
 
+/* Footer */
+
+.footer {
+    background: url(#);
+}
+
+.footer-container{
+    width: clamp(200px, 50%, 100%);
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+/* /Footer */
+
+/* Modal */
+
 #bookClassModal {
     color:#1A1918;
 }
+
+/* /Modal */
