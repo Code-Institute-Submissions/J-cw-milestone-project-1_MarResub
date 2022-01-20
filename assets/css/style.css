@@ -152,8 +152,8 @@ section>p {
 .footer-container{
     /* width: clamp(200px, 50%, 100%); */
     margin: auto;
-    padding: 35px;
-    margin-left: 25vw;
+    padding: 15px;
+    background-color: #1b2024;
 }
 
 ul {
@@ -164,6 +164,11 @@ ul {
     width: clamp(0, 1fr, 1fr);
     padding: 0 15px;
     
+}
+
+#footer-logo {
+    url(/assets/images/rsz_aura_fitness.png);
+    align-items: left;
 }
 /* /Footer */
 
