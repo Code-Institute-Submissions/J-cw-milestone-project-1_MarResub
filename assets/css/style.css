@@ -82,7 +82,7 @@ a {
 
 .callout-container {
 
-
+    background: url(/assets/images/luis-vidal-FodEsaNZs48-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,9 +107,22 @@ a {
 }
 
 /* /Containers */
+#jumbotronBorder {
+    padding-bottom: 0;
+    padding-top: 1px;
+    z-index: 1;
+    background-size: 100vh;
+    color: #fff;
+    border-style: double;
+    border-width: medium;
+    border-color: #fff;
+    border-radius: 33px;
+
+}
 
 #test {
-    background: url(/assets/images/luis-vidal-FodEsaNZs48-unsplash.jpg) no-repeat center center fixed;
+    padding-bottom: 0;
+    padding-top: 0;
     z-index: 1;
     background-size: 100vh;
     color: #fff;
@@ -132,7 +145,7 @@ a {
 /* Jumbotron */
 .jumbotron-header {
     font-weight: bolder;
-    margin-top: 13%;
+    /* margin-top: 13%; */
 
 }
 
@@ -194,7 +207,7 @@ ul {
 /* Classes */
 .classInfo-container {
     height: 25%;
-    background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed;
+    background: url(/assets/images/luis-vidal-FodEsaNZs48-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
