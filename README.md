@@ -86,7 +86,7 @@ This is the main marketing website for Aura Gym. It is designed to be responsibl
    - Tested to see if the logo and other list elements in the nav + footer links to the correct place.
    - Tested to see if the Reviews section fits well on smaller devices - It did not so I decided to hide 2 of the 3 reviews to accomodate for spacing.
    - Tested to see if the initial decision of white text and image background was visually pleasing - It was not so decided to create a gradientDrk class to apply for any hard-to-read text.
-   - 
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator] Would not let me, gave me 503 Service Unavailable.
@@ -118,15 +118,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. These would be clearly shown within the alert bar, as well as 'NEW!' labels within the timetable navbar.
         2. They will be directed to the facilities page which will contain said photos of new equipment, or the classes page which would be updated with class info.
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-        1. The navigation bar clearly highlights the "Our Facilities" Page.
-        2. Here they can obtain our email or phone number/location on the map if they wish to attend in person.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+    2. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
 
 -   #### Frequent User Goals
@@ -146,8 +138,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
+### Things I'd like to add / didn't have time for
 
+-   As I definitely did not grant myself enough time to complete this project, there are numerous things I would've liked to add.
+    -   To add a contact page that is dedicated to informing the user of every possible method to get in contact with the business. I would add a map to show the location, opening hours table to clarify any closures over the holidays etc, also a contact us form that they could fill out incase of any suggestions/queries.
+    -   The addition of a 'suggest a class' form option.
+    -   The addition of an animation of most likely the callout background image or something similar, to attract more users to the main callout as they first visit the site.
+    -   Add a better background for the 'classes' section on the front page.
+    -   Add better styling for the facilities page along with detailed descriptions about said facilities that we offer.
+    -   Improve the logo that was created and hopefully make more use of it throughout the website.
+    -   Improve the colours + styling of the website by testing more combinations ensuring the user is comforted when viewing the contrasts.
+    -   Give the hr's styling that match the style of the website.
 
 ## Deployment
 
@@ -213,9 +214,22 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 
 ### Media
+-   Photos used for reviews.
+    - https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AThe_Red_Haired_man.jpg&psig=AOvVaw3WlGh2jZ0Kr3DTk6bUhkcx&ust=1642700205808000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCKDloKWtvvUCFQAAAAAdAAAAABAD
 
--   All Images were created by the developer.
+-   All images used were taken from the unsplash website.
+    -   https://unsplash.com/@good_citizen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+    -   https://unsplash.com/photos/VJ2s0c20qCo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    -   https://unsplash.com/photos/gzeTjGu3b_k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    -   https://unsplash.com/photos/U2q73PfHFpM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    -   https://unsplash.com/photos/U2q73PfHFpM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    -   https://unsplash.com/photos/20jX9b35r_M?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    -   https://unsplash.com/@merittthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+    -   https://unsplash.com/@jkakaroto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+  
+    -   Logo was created at https://www.canva.com/
+
 
 ### Acknowledgements
 
--  My fellow students on slack.
+    -  My fellow students on slack.
