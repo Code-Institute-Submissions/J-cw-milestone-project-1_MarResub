@@ -8,6 +8,15 @@ body {
 
 }
 
+
+/* Page styling */
+
+#gradientDrk {
+    background-color: rgba(0, 0, 0, 0.363);
+    padding: 5px;
+
+}
+
 h2 {
     font-family: Roboto;
     text-transform: uppercase;
@@ -23,29 +32,8 @@ a {
     color: #78c6fc;
 }
 
-/* Page styling */
-
-#testborder {
-    color: #fff;
-    background-color: rgba(0, 0, 0, 0.363);
-    border-style: double;
-    border-width: medium;
-    border-color: #fff;
-    border-radius: 33px;
-    margin-left: 0.5rem;
-    margin-top: 0.2rem;
-    border-top: 25px;
-    border-bottom: 25px;
-}
-
-#gradientDrk {
-    background-color: rgba(0, 0, 0, 0.363);
-    padding: 5px;
-
-}
-
-
 /* /Page styling */
+
 /* Navbar */
 
 
@@ -94,7 +82,6 @@ a {
 
 .classes-container {
     height: 25%;
-    /* background: url(/assets/images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,6 +94,8 @@ a {
 }
 
 /* /Containers */
+
+/* Borders */
 #jumbotronBorder {
     padding-bottom: 0;
     padding-top: 1px;
@@ -120,15 +109,7 @@ a {
 
 }
 
-#test {
-    padding-bottom: 0;
-    padding-top: 0;
-    z-index: 1;
-    background-size: 100vh;
-    color: #fff;
-}
-
-#testborder {
+#DLborder {
     color: #fff;
     background-color: rgba(0, 0, 0, 0.363);
     border-style: double;
@@ -141,6 +122,8 @@ a {
     border-top: 25px;
     border-bottom: 25px;
 }
+
+/* /Borders */
 
 /* Jumbotron */
 .jumbotron-header {
@@ -157,21 +140,11 @@ a {
 /* /Buttons */
 
 
-section>h1 {
-    text-align: center;
-}
-
-section>p {
-    text-align: center;
-}
-
 /* Footer */
 
 .footer {
     background: url(#);
 }
-
-.footer-container .row {}
 
 .footer-container {
     margin: auto;
