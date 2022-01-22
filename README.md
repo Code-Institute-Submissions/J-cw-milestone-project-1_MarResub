@@ -93,6 +93,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup Validator] Would not let me, gave me 503 Service Unavailable.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/assets/images/w3c-validator.png)
+-   [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Results](assets/images/lighthouse-results.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
