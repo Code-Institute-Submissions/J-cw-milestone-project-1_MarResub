@@ -184,14 +184,13 @@ ul {
 }
 
 .footer-col {
-    width: clamp(0, 1fr, 1fr);
+
     padding: 0 15px;
 
 }
 
 #footer-logo {
-    url(/assets/images/rsz_aura_fitness.png);
-    align-items: left;
+    background: url(/assets/images/rsz_aura_fitness.png);
 }
 
 /* /Footer */
