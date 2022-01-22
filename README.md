@@ -37,11 +37,8 @@ This is the main marketing website for Aura Gym. It is designed to be responsibl
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](/assets/images/index.html-wireframe.png)
+        (copied this template for the other pages)
 
 ## Features
 
@@ -134,13 +131,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added classes or additions to the facilities.
+    1. As a Frequent User, I want to check to see if there are any newly added classes.
 
         1. The user would already be comfortable with the website layout and can easily click the alert message.
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to check to see if there are any changes to the timetables.
 
-        1. The user would already be comfortable with the website layout and can easily click social media links.
+        1. The user would already be comfortable with the website layout and can easily click to view the up-to-date timetable.
 
 ### Further Testing
 
@@ -214,7 +211,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
@@ -222,6 +218,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
-
--   Tutor support at Code Institute for their support.
+-  My fellow students on slack.
