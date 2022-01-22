@@ -52,6 +52,8 @@ This is the main marketing website for Aura Gym. It is designed to be responsibl
 
 -   Social media links are provided to grant users access to notifications of any updates made to the site or addition of any services that could interest them and or others.
 
+-   Email button on footer automatically opens default email app with company email already filled in.
+
 ## Technologies Used
 
 ### Languages Used
