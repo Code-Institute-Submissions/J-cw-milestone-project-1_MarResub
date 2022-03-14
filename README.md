@@ -91,7 +91,7 @@ This is the main marketing website for Aura Gym. It is designed to be responsibl
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator] Would not let me, gave me 503 Service Unavailable.
+-   [W3C Markup Validator](https://validator.w3.org/nu/) - [Results](assets/images/w3c-html-validator.png)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/assets/images/w3c-validator.png)
 -   [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - [Results](assets/images/lighthouse-results.png)
 
