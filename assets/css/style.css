@@ -11,7 +11,7 @@ body {
 
 /* Page styling */
 
-#gradientDrk {
+.gradientDrk {
     background-color: rgba(0, 0, 0, 0.363);
     padding: 5px;
 
@@ -109,7 +109,7 @@ a {
 
 }
 
-#DLborder {
+.DLborder {
     color: #fff;
     background-color: rgba(0, 0, 0, 0.363);
     border-style: double;
